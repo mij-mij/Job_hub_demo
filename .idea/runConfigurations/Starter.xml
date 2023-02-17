@@ -1,7 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Starter" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="com.noname.jobhub.starter.Starter" />
-    <module name="jobhubeStarter" />
+    <module name="jobhub-starter" />
+    <option name="PROGRAM_PARAMETERS" value="-Ddebug" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.noname.jobhub.starter.*" />

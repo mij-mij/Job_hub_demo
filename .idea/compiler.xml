@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jobhubcore" />
-        <module name="jobhubStoragePluginH2" />
-        <module name="jobhubeStarter" />
+        <module name="jobhub-starter" />
+        <module name="jobhub-restapi" />
+        <module name="jobhub-h2storage" />
+        <module name="jobhub-core" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,1 +1,4 @@
-com\noname\jobhub\businessrules\Main.class
+persistent\ClientApplicationStorage.class
+com\noname\jobhub\businessrules\model\Position.class
+persistent\PositionStorage.class
+com\noname\jobhub\businessrules\model\ClientApplication.class

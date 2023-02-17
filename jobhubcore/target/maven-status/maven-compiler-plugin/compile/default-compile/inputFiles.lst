@@ -1,1 +1,4 @@
-C:\Users\me\IdeaProjects\Job_hub_demo\jobhubbusinessrules\src\main\java\com\noname\jobhub\businessrules\Main.java
+C:\Users\me\IdeaProjects\Job_hub_demo\jobhubcore\src\main\java\com\noname\jobhub\businessrules\model\Position.java
+C:\Users\me\IdeaProjects\Job_hub_demo\jobhubcore\src\main\java\com\noname\jobhub\businessrules\model\ClientApplication.java
+C:\Users\me\IdeaProjects\Job_hub_demo\jobhubcore\src\main\java\persistent\ClientApplicationStorage.java
+C:\Users\me\IdeaProjects\Job_hub_demo\jobhubcore\src\main\java\persistent\PositionStorage.java

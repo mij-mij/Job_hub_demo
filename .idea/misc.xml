@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/jobhubcore/pom.xml" />
         <option value="$PROJECT_DIR$/jobhubStoragePluginH2/pom.xml" />
         <option value="$PROJECT_DIR$/jobhubeStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/jobhubrestapi/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
